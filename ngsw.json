@@ -1,0 +1,139 @@
+{
+  "configVersion": 1,
+  "timestamp": 1715465281412,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/chunk-FTRAFWTQ.js",
+        "/chunk-XW7VVHZ4.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-HUAN37U3.js",
+        "/manifest.webmanifest",
+        "/polyfills-S3BTP7ME.js",
+        "/styles-5CJ2MEVO.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/math.css",
+        "/assets/output/chtml.js",
+        "/assets/output/chtml/fonts/tex.js",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Math-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
+        "/assets/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
+        "/assets/output/svg.js",
+        "/assets/output/svg/fonts/tex.js"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/assets/math.css": "66b4858cbc61a642e8ec3f3cdb455fd154e628e5",
+    "/assets/output/chtml.js": "b8dee8833564c0f484c0de86bd1714fba8fa1496",
+    "/assets/output/chtml/fonts/tex.js": "e9fc720f3c4062ab258b845a973cf78ef7e8381b",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff": "6bc2c425db1226bf91a45c5ac4bf92c6a2659e4c",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff": "4f45a4737793be31b0cf5606a717b27d4f33633f",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff": "69abf851342ea0ea88cd7a48a3855a8da85144ce",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff": "0db97c087590f9e4866e376183d5dc11f10db0be",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff": "28704c6a56970ba681fc09763ad3b6d4d1f408a4",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff": "1b39dd27087cec46eb36b4b0cb967c7a2b7548ae",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff": "b83eded6d73439a0387219214d0a320a3c3b0d7e",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff": "89d2c8d274693c5a6e250e96e2a2e26e25619079",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff": "de80661cd5bc7e2328217db699a0ef7159d27a2e",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff": "91a4025dd3b18ca6bda63a215869773705435041",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Math-Regular.woff": "440031e5fd0684c5e38a9221114d280a55763ad4",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff": "8ec440016063a0dcd1e8d7e806ec86b2babfea29",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff": "9a30c856fa1957552d0226a600bf28fd8f417413",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff": "b14c723751a0ac1f8a94ed55fabf6ebeb38559ce",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff": "c668b55e8405d2f8acf2bcf1578d01838a8ef399",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff": "9c98f9f022647eb802434947e062b569ccedd5f0",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff": "53e2fb218469bb4b2118437e542cc018f849747b",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff": "5848fbf600fbb7d4a67e720e60da885ba4e12bb8",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff": "683c23731b31b766d8ed805b2d258eaab52085db",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff": "8dc0fe3bcd2cf9d3e46c3feb3a21b62961aa557c",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff": "14dd272bd9ce18c5a32bcaef50107d872a7d8543",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff": "1c6d1ec6fcfecc0585e93c2ac52a4ab8a34b1b77",
+    "/assets/output/chtml/fonts/woff-v2/MathJax_Zero.woff": "6712cf0aa5c12edc1cbbca8a1732a9cde0854c48",
+    "/assets/output/svg.js": "6874100c029991ba0c9ca3b3a41d374d3d69f1a6",
+    "/assets/output/svg/fonts/tex.js": "9636655f29a73a82f51e5f10bc3e485bb6fd5903",
+    "/chunk-FTRAFWTQ.js": "def77fc1dd47107f479134666937d35165cb29cc",
+    "/chunk-XW7VVHZ4.js": "bf240787943aa7d48a401f2e0ebcaf6d0aabd6eb",
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/index.html": "2a1b7e92ff82becf5ec4a416acbab247cef506c4",
+    "/main-HUAN37U3.js": "56c3c7f087f475e4e3ec00e557e37a38c4717ee7",
+    "/manifest.webmanifest": "afb9851e26ce4ba49872fbcc8490cbb4e0884d7c",
+    "/polyfills-S3BTP7ME.js": "893d641030c187f109c667de1b0a73a03095fa3b",
+    "/styles-5CJ2MEVO.css": "3fa504f5d85c3d93d12bb6dbafc7abc0fa0fbec0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
