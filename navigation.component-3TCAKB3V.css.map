@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/navigation/navigation.component.css"],
+  "sourcesContent": [".sidenav-container {\r\n  height: 100%;\r\n}\r\n\r\n.sidenav {\r\n  width: 300px;\r\n}\r\n\r\n.sidenav .mat-toolbar {\r\n  background: inherit;\r\n}\r\n\r\n.mat-toolbar.mat-primary {\r\n  position: sticky;\r\n  top: 0;\r\n  z-index: 1;\r\n}\r\n\r\n#webContent{\r\n  display: flex;\r\n  align-items: center;\r\n  justify-content: center;\r\n  width: 100%;\r\n}\r\n\r\n#solution{\r\n  padding: 25px;\r\n}\r\n"],
+  "mappings": "AAAA,CAAC,kBACC,OAAQ,IACV,CAEA,CAAC,QACC,MAAO,KACT,CAEA,CAJC,QAIQ,CAAC,YACR,WAAY,OACd,CAEA,CAJU,WAIE,CAAC,YACX,SAAU,OACV,IAAK,EACL,QAAS,CACX,CAEA,CAAC,WACC,QAAS,KACT,YAAa,OACb,gBAAiB,OACjB,MAAO,IACT,CAEA,CAAC,SAzBD,QA0BW,IACX",
+  "names": []
+}
