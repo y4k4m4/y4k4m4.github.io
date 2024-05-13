@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1715608200434,
+  "timestamp": 1715609063324,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "/chunk-JMFJT6ZU.js",
         "/favicon.ico",
         "/index.html",
-        "/main-NV7VYDSA.js",
+        "/main-HBIQCINB.js",
         "/manifest.webmanifest",
         "/polyfills-QL7OZAL3.js",
         "/styles-C6546ZVN.css"
@@ -24,7 +24,7 @@
     },
     {
       "name": "assets",
-      "installMode": "prefetch",
+      "installMode": "lazy",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
@@ -111,9 +111,9 @@
     "/chunk-46OCZUMG.js": "2593d5eaf2a0e81655de279fe0e55e5165750f0b",
     "/chunk-JMFJT6ZU.js": "c909324f12a1f6c86a70debe08b5c9f07339a0bc",
     "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/index.html": "81ece87bba5b6da981d25adff0b47a94a7606c05",
-    "/main-NV7VYDSA.js": "8a8cd1e8e6791526fdb00898fdd7da748abd2484",
-    "/manifest.webmanifest": "ffd17c8d4b969119bbba5adde2094d48739bcc74",
+    "/index.html": "cc694cff046f50e7504e6f8b13ca10183c332d2f",
+    "/main-HBIQCINB.js": "fc78c47cbe872f1c329e9179be5a4a18f5fd0cd7",
+    "/manifest.webmanifest": "afb9851e26ce4ba49872fbcc8490cbb4e0884d7c",
     "/polyfills-QL7OZAL3.js": "9c63a393f458a7cd8f2f2859630793c15434d345",
     "/styles-C6546ZVN.css": "69e44111190109de7d2fa44f7454e9973e30949f"
   },
