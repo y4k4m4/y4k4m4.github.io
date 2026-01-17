@@ -1,0 +1,1 @@
+import{Cb as i,Ta as n,mb as o,nb as a}from"./chunk-4Y5VCLLF.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-donate"]],decls:2,vars:0,template:function(e,m){e&1&&(o(0,"p"),i(1,"donate works!"),a())},encapsulation:2})};export{s as Donate};
