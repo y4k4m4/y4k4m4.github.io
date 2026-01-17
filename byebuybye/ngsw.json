@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1768648283383,
+  "timestamp": 1768654461543,
   "index": "/byebuybye/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/byebuybye/favicon.ico",
         "/byebuybye/index.html",
-        "/byebuybye/main-4Y3BNXJJ.js",
+        "/byebuybye/main-6XBGJKDC.js",
         "/byebuybye/manifest.webmanifest",
         "/byebuybye/styles-MDBUB3NJ.css"
       ],
@@ -50,8 +50,8 @@
     "/byebuybye/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/byebuybye/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/byebuybye/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/byebuybye/index.html": "ee55890c408be3c10f41b282fb593bf3fb2a79fa",
-    "/byebuybye/main-4Y3BNXJJ.js": "d7995749169b9a722f95d1f25193095c138fbeac",
+    "/byebuybye/index.html": "329149f5d41f823a6c9b114235dbd5da69dedd67",
+    "/byebuybye/main-6XBGJKDC.js": "30d08ecc5dcd9f59c464a90589ffee67fc68dc03",
     "/byebuybye/manifest.webmanifest": "57d8693a2101e723c9296684a71480cefdaa89dd",
     "/byebuybye/styles-MDBUB3NJ.css": "8e716250eb81710ada9e31996e57faba032b2dd2"
   },
