@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1768750386542,
+  "timestamp": 1768750619832,
   "index": "/byebuybye/index.html",
   "assetGroups": [
     {
@@ -23,10 +23,7 @@
         "/byebuybye/chunk-QORNORT3.js",
         "/byebuybye/chunk-QXHB2BIB.js",
         "/byebuybye/chunk-T2HF554B.js",
-        "/byebuybye/favicon.ico",
-        "/byebuybye/index.html",
         "/byebuybye/main-GI2EFTGL.js",
-        "/byebuybye/manifest.webmanifest",
         "/byebuybye/styles-DWG6WYRE.css"
       ],
       "patterns": []
@@ -65,7 +62,6 @@
     "/byebuybye/chunk-QORNORT3.js": "d3a06c378dd5dfad25c37565977282dfdf15d39d",
     "/byebuybye/chunk-QXHB2BIB.js": "4e80e16689c523a72679dbabdd63ad926c167a2d",
     "/byebuybye/chunk-T2HF554B.js": "7e6bf9474d323eb6c46b5b5d14f571d05e84efea",
-    "/byebuybye/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/byebuybye/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "/byebuybye/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
     "/byebuybye/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
@@ -74,9 +70,7 @@
     "/byebuybye/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/byebuybye/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/byebuybye/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/byebuybye/index.html": "8dcc550dab1c21c26164e8952750b19d931bc06c",
     "/byebuybye/main-GI2EFTGL.js": "0a0c7c11aa110886db69e7b633cca0f4d08a3b06",
-    "/byebuybye/manifest.webmanifest": "f44e0792fe8e841ba05e6c9a12e6b2f70194dd86",
     "/byebuybye/styles-DWG6WYRE.css": "72818f1629fc6cfecc1cb32b49b007f2dc6fce96"
   },
   "navigationUrls": [
