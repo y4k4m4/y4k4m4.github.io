@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1768730109903,
+  "timestamp": 1768748569189,
   "index": "/byebuybye/index.html",
   "assetGroups": [
     {
@@ -76,7 +76,7 @@
     "/byebuybye/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/byebuybye/index.html": "d429e93069acd41bb530b9cb1272781f7bd923b0",
     "/byebuybye/main-R24H4GMB.js": "b3d362a60b9efa415202b358da554f4f57cc99e0",
-    "/byebuybye/manifest.webmanifest": "57d8693a2101e723c9296684a71480cefdaa89dd",
+    "/byebuybye/manifest.webmanifest": "02601975e08e62035eeafa222f25a87c89abf542",
     "/byebuybye/styles-DWG6WYRE.css": "72818f1629fc6cfecc1cb32b49b007f2dc6fce96"
   },
   "navigationUrls": [
