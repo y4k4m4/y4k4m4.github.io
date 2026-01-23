@@ -56,6 +56,11 @@
         button:hover {
             background-color: #0056b3;
         }
+
+        #qr-reader > div:first-of-type > img{
+            display: none !important;
+            
+        }
     </style>
     <script src="html5-qrcode.min.js"></script>
 </head>
@@ -87,7 +92,10 @@
         }
 
         var html5QrcodeScanner = new Html5QrcodeScanner(
-            "qr-reader", { fps: 10, qrbox: 250 });
+            "qr-reader", {
+                fps: 10,
+                qrbox: 250
+            });
         html5QrcodeScanner.render(onScanSuccess);
     });
 </script>
